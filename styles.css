@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-     box-sizing: border-box;
+    box-sizing: border-box;
      font-family: 'Bricolage Grotesque', sans-serif;
 }
 
@@ -144,8 +144,8 @@ padding: 7px;
     width: 100%;
     border-radius: 10px;
     background:#e667a2;
-     text-align: center;
-        box-shadow: 0 15px 10px 3px rgba(0,0,0,0.1);
+    text-align: center;
+ box-shadow: 0 15px 10px 3px rgba(0, 0, 0, 0.418);     /*reduce brightness if unfit */
 }
 
 .game-modal img {

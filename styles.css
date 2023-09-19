@@ -176,8 +176,11 @@ padding: 7px;
     padding: 12px 23px;
 }
 
-
-
+@media (max-width: 950px) {
+    .zombie-img{
+        display: none;
+    }
+}
 @media (max-width: 782px) {
     .container {
         flex-direction: column;

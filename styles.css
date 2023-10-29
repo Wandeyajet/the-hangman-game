@@ -175,12 +175,16 @@ padding: 7px;
 .game-modal button {
     padding: 12px 23px;
 }
+   .zombie-img{
+        width: 25%;
+    }
 
-@media (max-width: 950px) {
+@media (max-width: 1000px) {
     .zombie-img{
         display: none;
     }
 }
+
 @media (max-width: 782px) {
     .container {
         flex-direction: column;
